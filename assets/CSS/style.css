@@ -1,0 +1,18 @@
+.jumbotron {
+    background-image: url("../../assets/Images/mine.background.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder
+}
+
+#rules {
+    text-align: center;
+    background-color: rgb(250, 205, 81);
+    font-size: 16px;
+}
+
+#crystalsRow {
+    background-color: rgb(191, 191, 243);
+}
